@@ -1,7 +1,7 @@
 <project title="Ebike Wiring" version="0.90">
     <properties>
         <property show="1" name="saveddate-us">2023-09-01</property>
-        <property show="1" name="savedtime">12:13</property>
+        <property show="1" name="savedtime">12:34</property>
         <property show="1" name="saveddate-eu">01-09-2023</property>
         <property show="1" name="savedfilepath">/home/eric/Code/git/ebike-wiring/wiring diagram/wiring diagram</property>
         <property show="1" name="saveddate">9/1/23</property>
@@ -252,7 +252,7 @@
                     <elementInformation show="1" name="auxiliary1">12 V</elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text keep_visual_rotation="true" uuid="{583d665a-ab96-4a2e-8c55-47d09c1a854f}" x="-80" y="-70" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="ElementInfo" rotation="0" frame="false" Valignment="AlignTop" text_width="-1">
+                    <dynamic_elmt_text keep_visual_rotation="true" uuid="{583d665a-ab96-4a2e-8c55-47d09c1a854f}" x="-90" y="-70" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" text_from="ElementInfo" rotation="0" frame="false" Valignment="AlignTop" text_width="-1">
                         <text>Voltage Converter</text>
                         <info_name>label</info_name>
                     </dynamic_elmt_text>
@@ -310,7 +310,15 @@
                 <segment orientation="horizontal" length="-9"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor onetextperfolio="0" type="multi" horizrotatetext="0" function="" num="" formula="" dash-size="2" conductor_color="" terminal2="36" text_color="#000000" terminal1="2" color="#e01b24" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="1" bicolor="false" condsize="1" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
+            <conductor onetextperfolio="0" type="multi" horizrotatetext="0" userx="610" function="" num="48V Main" formula="48V Main" dash-size="2" conductor_color="" terminal2="36" text_color="#000000" terminal1="2" color="#e01b24" conductor_section="" color2="#000000" bus="" displaytext="1" vertirotatetext="270" bicolor="false" condsize="1" usery="460" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
+                <segment orientation="horizontal" length="-9"/>
+                <segment orientation="vertical" length="-30"/>
+                <segment orientation="horizontal" length="79"/>
+                <segment orientation="vertical" length="-70"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-91"/>
+                <segment orientation="horizontal" length="-60"/>
+                <segment orientation="vertical" length="-9"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor onetextperfolio="0" type="multi" horizrotatetext="0" function="" num="" formula="" dash-size="2" conductor_color="red" terminal2="22" text_color="#000000" terminal1="0" color="#e01b24" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="0" bicolor="false" condsize="1" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
@@ -408,7 +416,7 @@
                 <segment orientation="horizontal" length="-9"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor onetextperfolio="0" type="multi" horizrotatetext="0" function="" num="Headlight Signal" formula="Headlight Signal" dash-size="2" conductor_color="" terminal2="28" text_color="#000000" terminal1="8" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="1" bicolor="false" condsize="1" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
+            <conductor onetextperfolio="0" type="multi" horizrotatetext="0" userx="470" function="" num="Headlight Signal" formula="Headlight Signal" dash-size="2" conductor_color="" terminal2="28" text_color="#000000" terminal1="8" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="1" bicolor="false" condsize="1" usery="480" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
                 <segment orientation="vertical" length="-9"/>
                 <segment orientation="horizontal" length="-40"/>
                 <segment orientation="vertical" length="269"/>
@@ -416,6 +424,11 @@
                 <sequentialNumbers/>
             </conductor>
             <conductor onetextperfolio="0" type="multi" horizrotatetext="0" function="" num="" formula="" dash-size="2" conductor_color="" terminal2="26" text_color="#000000" terminal1="9" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="1" bicolor="false" condsize="1" numsize="7" vertical-alignment="AlignRight" y="0" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
+                <segment orientation="vertical" length="9"/>
+                <segment orientation="vertical" length="21"/>
+                <segment orientation="horizontal" length="-20"/>
+                <segment orientation="vertical" length="190"/>
+                <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor onetextperfolio="0" type="multi" horizrotatetext="0" function="" num="" formula="" dash-size="2" conductor_color="" terminal2="{8f8527b2-a1f6-49b2-88bb-ab0ff1eeb86c}" text_color="#000000" terminal1="33" conductor_section="" color2="#000000" bus="" vertirotatetext="270" displaytext="1" bicolor="false" condsize="1" numsize="7" vertical-alignment="AlignRight" y="0" element2="{099dd0d2-338c-4d06-a452-9d7735a7219d}" cable="" x="0" freezeLabel="false" tension_protocol="" horizontal-alignment="AlignBottom">
