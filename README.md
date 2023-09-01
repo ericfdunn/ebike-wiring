@@ -18,5 +18,5 @@ I don't yet know how I will trigger the brakelights. There are switches built in
 
 - [48V Step Down to DC 12V 20A 240W DC/DC Converter](https://www.amazon.com/gp/product/B089YBPHM1)
 - [4 Pin DC 48V 40A Universal Car Vehicle Motor Fuse Relay](https://www.amazon.com/gp/product/B07QQKJLMD)
-- [12 AWG Inline Fuse Holder](https://www.amazon.com/gp/product/B081DHT8Y7)
+- [Car in line Fuse Holder 16AWG Cable with Built in Mini Spade Fuse](https://www.amazon.com/gp/product/B07RCG7RQX)
 - [Pocket Size Fishing Tackle Box](https://www.amazon.com/gp/product/B09S9VRM46)
