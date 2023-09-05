@@ -16,7 +16,14 @@ I don't yet know how I will trigger the brakelights. There are switches built in
 
 ## Parts List
 
+Lights:
+- [20W LED Motorcycle Fog Lights, 3 Inch Round LED Daytime Running Light](https://www.amazon.com/gp/product/B09VP3PT8P)
+- [40W Motorcycle Tail Light Integrated Running Lamp Brake&Turn Signal](https://www.amazon.com/gp/product/B08NX56DNN)
+
+Power delivery:
 - [48V Step Down to DC 12V 20A 240W DC/DC Converter](https://www.amazon.com/gp/product/B089YBPHM1)
 - [4 Pin DC 48V 40A Universal Car Vehicle Motor Fuse Relay](https://www.amazon.com/gp/product/B07QQKJLMD)
 - [Car in line Fuse Holder 16AWG Cable with Built in Mini Spade Fuse](https://www.amazon.com/gp/product/B07RCG7RQX)
+
+ Project box:
 - [Pocket Size Fishing Tackle Box](https://www.amazon.com/gp/product/B09S9VRM46)
