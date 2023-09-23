@@ -8,7 +8,7 @@ The first step is to plan the necessary components and wiring. The main battery 
 
 See the wiring diagram [here](https://github.com/ericfdunn/ebike-wiring/blob/main/wiring%20diagram/wiring%20diagram.pdf)
 
-Packaging was also limited, with only a small space available in the battery compartment, I unfortunately could not fit the relay there. There will be a fuse located near the battery, and the 48V supply will be run up to an enclosure for the voltage converter on the handlebars.
+Packaging was also limited, with only a small space available in the battery compartment, I unfortunately could not fit the relay there. The 48V supply will be run up to an enclosure on the handlebar with a relay before the voltage converter.
 
 I don't yet know how I will trigger the brakelights. There are switches built into the brake levers that the computer uses to deactivate the motor, but the current on these switches is very small and I haven't come up with a way to piggyback off them for the rear brakelights.
 
