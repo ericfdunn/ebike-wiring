@@ -22,6 +22,9 @@ def print_markdown_image_links(folder_path):
     # Get a list of all files in the folder with image extensions
     image_files = [f for f in os.listdir(folder_path) if any(f.lower().endswith(ext) for ext in image_extensions)]
 
+    # Sort items alphabetically
+    image_files.sort()
+
     # Loop through the image files and generate markdown image links
     for image_file in image_files:
         # Create a markdown image link
