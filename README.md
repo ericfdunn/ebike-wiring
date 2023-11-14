@@ -16,44 +16,64 @@ I don't yet know how I will trigger the brakelights. There are switches built in
 
 Soldering the wires for the circuit board that connects the headlights and switches.
 ![d-image001.jpg](</images/d-image001.jpg>)
+
 Backside.
 ![d-image002.jpg](</images/d-image002.jpg>)
+
 Front with JST-XH connectors soldered. Attaching the XT60 connector for power.
 ![d-image003.jpg](</images/d-image003.jpg>)
+
 Hot glue to cover any exposed connections, including the XT60 terminals underneath the collar.
 ![d-image004.jpg](</images/d-image004.jpg>)
+
 I had to go back and add the diode after initial testing.
 ![d-image005.jpg](</images/d-image005.jpg>)
+
 Power converted mounted onto the bottom of the project box using small machine screws. I roughly drilled some holes in the back to pass wires through.
 ![d-image006.jpg](</images/d-image006.jpg>)
+
 Inside of the box with the power converter wires terminated with XT60 connectors.
 ![d-image007.jpg](</images/d-image007.jpg>)
+
 Power delivery setup assembled. The relay has XT60 connectors to connect to the battery and power converter, and a smaller julliet pigtail that connects to the Pedego wiring harness's headlight circuit.
 ![d-image008.jpg](</images/d-image008.jpg>)
+
 Making a power splitter that can connect to the batter. I got the juliet connectors from a spare battery bridge and pedego computer. It's not the most space-efficient connector, but this allows plug-in directly to the factory wiring harness.
 ![d-image010.jpg](</images/d-image010.jpg>)
+
 Juliet pigtails tinned together and heatshrunk.
 ![d-image011.jpg](</images/d-image011.jpg>)
+
 Then I soldierd the tinned leads into the XT60 connector.
 ![d-image012.jpg](</images/d-image012.jpg>)
+
 Crimping JST-XH connectors to the headlights and headlight switch.
 ![d-image013.jpg](</images/d-image013.jpg>)
+
 Testing the power converter with the bike battery to validate the voltage being delivered.
 ![d-image014.jpg](</images/d-image014.jpg>)
+
 Bench testing the headlights. At this point I noticed that one of the ring lights was burnt out and I had to order a replacement.
 ![d-image015.jpg](</images/d-image015.jpg>)
+
 Bench testing the driving lights.
 ![d-image016.jpg](</images/d-image016.jpg>)
+
 Soldering the connectors on the wiring that will run from the battery compartment up to the handlebars.
 ![d-image017.jpg](</images/d-image017.jpg>)
+
 Completed connector, hot glue applied and collar slid into place before heat shrinking.
 ![d-image018.jpg](</images/d-image018.jpg>)
+
 Project mounted and wired under the handlebars.
 ![d-image019.jpg](</images/d-image019.jpg>)
+
 Completed dasboard with project box closed up and hung under the handlebars with zip ties.
 ![d-image022.jpg](</images/d-image022.jpg>)
+
 Ring lights on in the dark. They come on when I toggle on the lights from the Pedego controller. The three position switch on the handlebar controls the headlights individually. The brightness is great for nighttime riding and the beam pattern is D-shaped to keep the light focused down towards the roadway.
 ![d-image026.jpg](</images/d-image026.jpg>)
+
 The final packing was a little rough, but I'm happy with the wiring and functionality. When I add in the tail lights, I may try to improve the packaging and routing of the wires.
 
 ## Parts List
